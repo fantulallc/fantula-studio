@@ -18,6 +18,8 @@
 
 
 
+
+- [最新美国公司注册代理人是干什么的？如何挑选看这3点](docs/2026-11-22_us-company-registered-agent-role-and-costs-guide.md) · 2026-11-22
 - [最新美国LLC和Inc区别：出海如何选看这3点](docs/2026-11-22_us-llc-vs-inc-corporation-differences-guide.md) · 2026-11-22
 - [最新中国人注册美国公司需要什么条件？如何合规办理看这3点](docs/2026-11-22_requirements-for-chinese-founders-to-register-us-company.md) · 2026-11-22
 - [最新美国LLC公司报税流程：跨境新手如何合规申报看这3步](docs/2026-11-20_us-llc-tax-filing-process-guide.md) · 2026-11-20
